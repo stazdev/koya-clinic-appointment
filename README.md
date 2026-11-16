@@ -2,7 +2,7 @@
 
 A clinic booking API with a simple web page that uses it. Built for Task 1 of the Koya Cohort 4 assessment.
 
-- **Live URL:** _TBD after deployment_
+- **Live URL:** https://koya-clinic-appointment.vercel.app
 - **Contract:** [openapi.json](https://koyaacademy.com/assessment-api/openapi.json)
 - **Stack:** Next.js 16 (App Router, TypeScript), Postgres (Neon in production), `pg`, Tailwind CSS, Vitest
 
